@@ -15,7 +15,7 @@ import org.zz.gmhelper.SM2Util;
 import java.math.BigInteger;
 import java.security.KeyPair;
 import java.util.Arrays;
-
+// https://github.com/ZZMarquis/gmhelper  使用这个的封装的BC库函数
 public class Tsm2 {
     public static void main(String[] args) {
         try {

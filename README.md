@@ -7,3 +7,5 @@
 * python版本 https://github.com/guanzhi/GmSSL，使用pip install gmssl安装就可， 已与上面的js测试过是互通的，要注意的就是在python2下 ， string与byte是可以自动转换的，在python3下需要将string转成byte
 
 * 其他语言的不断加入测试中
+
+* 总结见作者新项目 lpilp/phpsm2sm3sm4 的readme
